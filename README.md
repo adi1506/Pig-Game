@@ -15,3 +15,5 @@ GAME RULE UPDATES :
 2.  they can change the predefined score of 100. 
 3. Added another dice to the game, so that there are two dices now.
  The player looses his current score when one of them is a 1.
+
+Preview the game at :- https://adi1506.github.io/Pig-Game/
