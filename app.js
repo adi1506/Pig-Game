@@ -51,11 +51,11 @@ document.querySelector('.btn-roll').addEventListener('click', function () {
           //Displaying the random number on the dice
           var diceDOM = document.querySelector('.dice');
           diceDOM.style.display = 'block';
-          diceDOM.src = 'dice-' + Dice + '.PNG';
+          diceDOM.src = 'img/dice-' + Dice + '.png';
 
           var dice1DOM = document.querySelector('.dice1');
           dice1DOM.style.display = 'block';
-          dice1DOM.src = 'dice-' + Dice1 + '.PNG';
+          dice1DOM.src = 'img/dice-' + Dice1 + '.png';
 
           //Updating the roundscore unless the dice shows up the score 1
           if (Dice !== 1) {
